@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Fabrizio!&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Emanuele!&fontSize=70" />
 </div>
 
 <table align="center">
@@ -14,7 +14,9 @@
       </p>
       <ul>
         <li>⚡ I am interested in everything that has to do with the tech world, from <b>programming to hardware</b>.</li>
+        <li>🎮 I am deeply interested in <b>immersive gaming experiences</b> and technologies that push the boundaries of virtual worlds.</li>
         <li>🤖 My focus is on integrating <b>AI models</b> into robust architectures.</li>
+        <li>🐧 Proud <b>Linux</b> user and <b>FOSS</b> world supporter.</li>
         <li>🌱 Currently deepening my knowledge in <b>C#</b> for game development.</li>
       </ul>
       <p align="center">
