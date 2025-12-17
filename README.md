@@ -31,17 +31,6 @@
 ---
 
 <div align="center">
-  <h3>🔥 My Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=[fabriziosatu]&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[fabriziosatu]&layout=compact&theme=radical" alt="Top Langs" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[fabriziosatu]&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
   <p><i>"Hardware is what makes software possible; AI is what makes it smart."</i></p>
   <h3>🌟 Leave a star if you liked my profile! 🌟</h3>
 </div>
