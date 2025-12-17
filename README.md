@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20[Your%20Name]!&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Emanuele!&fontSize=70" />
 </div>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXo0eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SXPf6PdxX59T0Z5n/giphy.gif" width="150" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXo0eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SXPf6PdxX59T0Z5n/giphy.gif" width="150" height="150" style="border-radius: 10px;" />
       </div>
       <h3 align="center">👨‍💻 About Me</h3>
       <p>
         Hi! I am a <b>Computer Engineer</b>, currently a <b>Master's Degree student</b> specializing in <b>Artificial Intelligence</b>.
       </p>
       <ul>
-        <li>⚡ I am a <b>Backend Developer</b> passionate about <b>Hardware</b> and low-level programming (C, Assembly).</li>
+        <li>⚡ I am interested in everything that has to do with the tech world, from <b>programming to hardware</b>.</li>
         <li>🎮 I am deeply interested in <b>immersive gaming experiences</b> and technologies that push the boundaries of virtual worlds.</li>
         <li>🤖 My focus is on integrating <b>AI models</b> into robust architectures.</li>
-        <li>🐧 Proud <b>Linux</b> user and FOSS world supporter.</li>
+        <li>🐧 Proud <b>Linux</b> user and <b>FOSS</b> world supporter.</li>
         <li>🌱 Currently deepening my knowledge in <b>C#</b> for game development.</li>
       </ul>
       <p align="center">
@@ -27,7 +27,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🛠️ Languages and Tools</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=c,asm,cpp,cs,java,python,r,js,css,postgres,docker,bash,linux,git,vscode,idea,pycharm,rstudio,jupyter,latex,md,trello&perline=4" />
+        <img src="https://skillicons.dev/icons?i=c,asm,cs,java,python,r,js,css,postgres,docker,bash,linux,git,vscode,idea,pycharm,rstudio,jupyter,latex,md,trello&perline=4" />
       </p>
     </td>
   </tr>
@@ -36,11 +36,11 @@
 ---
 
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
+  <h3>🔥 My Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" alt="Top Langs" />
-  <br>
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=radical" alt="GitHub Streak" />
 </div>
 
