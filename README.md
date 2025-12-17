@@ -22,7 +22,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🛠️ Languages and Tools</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=c,asm,cs,java,python,r,js,css,postgres,docker,bash,linux,git,vscode,idea,pycharm,rstudio,jupyter,latex,md,trello&perline=4" />
+        <img src="https://skillicons.dev/icons?i=c,java,python,r,js,css,postgres,docker,bash,linux,git,vscode,idea,pycharm,rstudio,jupyter,latex,md,trello&perline=4" />
       </p>
     </td>
   </tr>
