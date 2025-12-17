@@ -4,7 +4,7 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="70%" valign="top">
       <div align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXo0eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SXPf6PdxX59T0Z5n/giphy.gif" width="150" height="150" style="border-radius: 10px;" />
       </div>
