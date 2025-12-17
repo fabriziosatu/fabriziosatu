@@ -34,11 +34,11 @@
 
 <div align="center">
   <h3>🔥 My Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[fabriziosatu]&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[fabriziosatu]&layout=compact&theme=radical" alt="Top Langs" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[fabriziosatu]&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
