@@ -12,7 +12,7 @@
       <ul>
         <li>⚡ I am interested in everything that has to do with the tech world, from <b>programming to hardware</b>.</li>
         <li>🤖 My focus is on integrating <b>AI models</b> into robust architectures.</li>
-        <li>🌱 Currently deepening my knowledge in <b>HTML, CSS, JavaScript</b> for <b>Frontend</b> development.</li>
+        <li>🌱 Currently deepening my knowledge in <b>HTML, CSS and JavaScript</b> for <b>Frontend</b> development.</li>
       </ul>
       <p align="center">
         <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
